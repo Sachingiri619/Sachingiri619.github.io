@@ -1,0 +1,6 @@
+{
+  "MUTATION_END_POINT" : "http://103.198.9.169:8790/mutation",
+  "QUERY_END_POINT" : "http://103.198.9.169:8790/query",
+  "DOWNLOAD_END_POINT" : "http://103.198.9.169:8790/download",
+  "LOGIN_END_POINT" : "http://103.198.9.169:8790/login"
+}
