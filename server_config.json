@@ -1,0 +1,7 @@
+{
+  "C_MUTATION_END_POINT": "http://103.198.9.169:8790/mutation",
+  "C_QUERY_END_POINT": "http://103.198.9.169:8790/query",
+  "C_DOWNLOAD_END_POINT": "http://103.198.9.169:8790/download",
+  "C_PAYMENT_END_POINT": "http://103.198.9.169:8790/payment",
+  "C_LOGIN_END_POINT": "http://103.198.9.169:8790/login"
+}
