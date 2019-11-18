@@ -1,7 +1,0 @@
-{
-  "C_MUTATION_END_POINT": "http://www.kiranaonline.shop:443/mutation",
-  "C_QUERY_END_POINT": "http://www.kiranaonline.shop:443/query",
-  "C_DOWNLOAD_END_POINT": "http://www.kiranaonline.shop:443/download",
-  "C_PAYMENT_END_POINT": "http://www.kiranaonline.shop:443/payment",
-  "C_LOGIN_END_POINT": "http://www.kiranaonline.shop:443/login"
-}
